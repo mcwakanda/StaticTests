@@ -1,0 +1,1 @@
+﻿addHttpRequestHandler('/1','Scripts/routes/main.js', 'index');addHttpRequestHandler('/page1','Scripts/routes/main.js', 'page1');

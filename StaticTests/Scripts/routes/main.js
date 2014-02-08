@@ -1,0 +1,1 @@
+﻿function index(req, res){	return JSON.stringify(req);	//test}function page1(req, res){	//var template = File(");}

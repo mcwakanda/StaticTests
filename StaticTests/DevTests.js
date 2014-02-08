@@ -1,0 +1,1 @@
+﻿var source = '<div class="entry"><h1>{{title}}</h1><div class="body">{{body}}</div></div>';var template = Handlebars.compile(source);var context = {title: "test title"};var html = template(context);html
